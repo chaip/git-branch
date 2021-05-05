@@ -1,7 +1,12 @@
+
 .container {
     width: 1148px;
     margin: 0 auto;
     overflow: hidden;
+}
+
+body{
+    background-color: chocolate;
 }
 
 .brand{
